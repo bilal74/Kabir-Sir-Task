@@ -1,0 +1,56 @@
+h2{
+    color: goldenrod;
+}
+
+button{
+    background-color: antiquewhite;
+    padding: 5px;
+    border: 1px solid goldenrod;
+    padding-left: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.carousel-item{
+    img{
+        height: 500px;
+    }
+}
+
+.footerInReact{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.card1{
+    // background-color: red;
+    display: flex;
+    margin-top: 40px;
+    .left{
+        // background-color: aqua;
+        width: 50%;
+        img{
+            width: 35%;
+        }
+    }
+    .right{
+        // background-color: bisque;
+        width: 40%;
+    }
+}
+
+.med{
+    // background-color: aqua;
+    display: flex;
+    .right{
+        order: 1;
+        width: 50%;
+    }
+    .left{
+        order: 2;
+        width: 40%;
+    }
+}
