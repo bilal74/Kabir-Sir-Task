@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kabir-Sir-Task/static/css/main.e9442b01.chunk.css",
+    "main.js": "/Kabir-Sir-Task/static/js/main.a68c1ba0.chunk.js",
+    "main.js.map": "/Kabir-Sir-Task/static/js/main.a68c1ba0.chunk.js.map",
+    "runtime-main.js": "/Kabir-Sir-Task/static/js/runtime-main.3615bda8.js",
+    "runtime-main.js.map": "/Kabir-Sir-Task/static/js/runtime-main.3615bda8.js.map",
+    "static/js/2.6124cca4.chunk.js": "/Kabir-Sir-Task/static/js/2.6124cca4.chunk.js",
+    "static/js/2.6124cca4.chunk.js.map": "/Kabir-Sir-Task/static/js/2.6124cca4.chunk.js.map",
+    "static/js/3.ce932221.chunk.js": "/Kabir-Sir-Task/static/js/3.ce932221.chunk.js",
+    "static/js/3.ce932221.chunk.js.map": "/Kabir-Sir-Task/static/js/3.ce932221.chunk.js.map",
+    "index.html": "/Kabir-Sir-Task/index.html",
+    "static/css/main.e9442b01.chunk.css.map": "/Kabir-Sir-Task/static/css/main.e9442b01.chunk.css.map",
+    "static/js/2.6124cca4.chunk.js.LICENSE.txt": "/Kabir-Sir-Task/static/js/2.6124cca4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Kabir-Sir-Task/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3615bda8.js",
+    "static/js/2.6124cca4.chunk.js",
+    "static/css/main.e9442b01.chunk.css",
+    "static/js/main.a68c1ba0.chunk.js"
+  ]
+}
